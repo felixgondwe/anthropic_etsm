@@ -1,49 +1,10 @@
 # Enterprise Claude API Growth & Optimization Platform
 
-A focused demonstration platform showcasing strategic capabilities for the Anthropic Enterprise Technical Success Manager (ETSM) role, built to support our mission of safely guiding the world through the AI revolution.
-
-## 🎯 Mission Alignment
-
-This platform embodies Anthropic's core values and mission by providing ETSMs with the tools they need to ensure our AI technology serves humanity's best interests:
-
-### **01. Act for the global good**
-- **Safety-first approach**: Built-in risk assessment and mitigation tools
-- **Long-term thinking**: Strategic planning for sustainable AI adoption
-- **Human-centric design**: Focus on positive outcomes for all stakeholders
-
-### **02. Hold light and shade**
-- **Risk awareness**: Comprehensive risk identification and monitoring
-- **Opportunity recognition**: Growth and expansion opportunity tracking
-- **Balanced perspective**: Tools for both protection and advancement
-
-### **03. Be good to our users**
-- **Customer success focus**: Account health and growth monitoring
-- **Stakeholder engagement**: Tools for effective communication and collaboration
-- **Generous support**: Comprehensive documentation and troubleshooting
-
-### **04. Ignite a race to the top on safety**
-- **Safety monitoring**: Real-time API usage and risk assessment
-- **Best practices**: Industry-leading security and compliance features
-- **Continuous improvement**: Tools for ongoing optimization and enhancement
-
-### **05. Do the simple thing that works**
-- **Empirical approach**: Data-driven decision making
-- **Practical solutions**: Focus on impact over complexity
-- **Iterative improvement**: Simple, effective tools that deliver results
-
-### **06. Be helpful, honest, and harmless**
-- **Transparent communication**: Clear, honest reporting and insights
-- **Harm prevention**: Built-in safeguards and risk mitigation
-- **Collaborative approach**: Tools that foster trust and cooperation
-
-### **07. Put the mission first**
-- **Mission-driven design**: Every feature serves our core purpose
-- **Collective ownership**: Tools that empower every team member
-- **Swift action**: Rapid response capabilities for critical situations
+A focused demonstration platform showcasing strategic capabilities for the Anthropic Enterprise Technical Success Manager (ETSM) workflow.
 
 ## 🎯 Platform Capabilities
 
-This platform demonstrates key ETSM competencies while embodying our values:
+This platform demonstrates ETSM metrics on possible interest:
 
 ### 1. API Usage Analytics & Strategy Boards
 - **API Usage Dashboard**: Track API consumption, growth trends, and account health
@@ -99,16 +60,6 @@ This platform demonstrates key ETSM competencies while embodying our values:
 - Use case tracking
 - Performance indicators
 
-## 🎯 ETSM Role Alignment
-
-This platform directly addresses key responsibilities from the [Anthropic ETSM job posting](https://job-boards.greenhouse.io/anthropic/jobs/4636776008) while embodying our values:
-
-- ✅ **Monitor API usage patterns to mitigate risks and identify opportunities**
-- ✅ **Drive consumption through account plans grounded in business objectives**
-- ✅ **Work cross-functionally to identify and pursue expansion opportunities**
-- ✅ **Lead regular customer stakeholder meetings and quarterly business reviews**
-- ✅ **Demonstrate technical acumen with understanding of APIs and integration**
-
 ## 🛠️ Technical Stack
 
 - **Frontend**: Streamlit (Python web framework)
@@ -117,14 +68,7 @@ This platform directly addresses key responsibilities from the [Anthropic ETSM j
 - **Analytics**: NumPy for calculations
 - **UI Components**: Streamlit for interactive dashboards
 
-## 📈 Success Metrics
 
-The platform demonstrates:
-- **Technical Acumen**: Direct API integration and usage analysis
-- **Strategic Thinking**: Data-driven account planning and strategy boards
-- **Business Impact**: Revenue tracking and growth opportunity identification
-- **API Expertise**: Real-time integration with Anthropic's API
-- **Value Alignment**: Every feature embodies our company values
 
 ## 🔧 Development
 
@@ -144,11 +88,10 @@ make run
 
 ## 🤝 Contributing
 
-We welcome contributions that align with our values. Please ensure your contributions:
-- **Act for the global good**: Consider the broader impact of your changes
-- **Be helpful, honest, and harmless**: Communicate clearly and avoid harm
-- **Do the simple thing that works**: Focus on practical, effective solutions
-- **Put the mission first**: Ensure changes serve our core purpose
+We welcome contributions! Please ensure your contributions are:
+- Well-documented and tested
+- Focused on practical, effective solutions
+- Clear and maintainable
 
 ## 📞 Support
 
@@ -156,4 +99,4 @@ For questions or support, please reach out to the development team. We're commit
 
 ---
 
-*Built to support Anthropic's mission of safely guiding the world through the AI revolution.*
+*Enterprise Technical Success Manager Dashboard - Powered by Anthropic*
