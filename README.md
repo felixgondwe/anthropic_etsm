@@ -86,17 +86,4 @@ make format
 make run
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please ensure your contributions are:
-- Well-documented and tested
-- Focused on practical, effective solutions
-- Clear and maintainable
-
-## 📞 Support
-
-For questions or support, please reach out to the development team. We're committed to being helpful, honest, and harmless in all our interactions.
-
----
-
 *Enterprise Technical Success Manager Dashboard - Powered by Anthropic*
